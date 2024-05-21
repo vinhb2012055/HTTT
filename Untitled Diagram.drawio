@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T08:39:29.002Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="0H31FJKddcFQMvDP4ka5" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T08:47:17.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="C_yFl7wxZQGnEDzHjqaI" version="24.4.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2379" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -324,7 +324,7 @@
         <mxCell id="iGgb0zI6Xbz-TV2m70cO-115" value="cthd_ma : khóa chính" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="iGgb0zI6Xbz-TV2m70cO-114">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iGgb0zI6Xbz-TV2m70cO-116" value="&lt;u&gt;nd_ma&lt;/u&gt; : khóa ngoại" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iGgb0zI6Xbz-TV2m70cO-114">
+        <mxCell id="iGgb0zI6Xbz-TV2m70cO-116" value="&lt;u&gt;nv_ma&lt;/u&gt; : khóa ngoại" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iGgb0zI6Xbz-TV2m70cO-114">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iGgb0zI6Xbz-TV2m70cO-117" value="&lt;u&gt;hd_ma&lt;/u&gt; : khóa ngoại" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iGgb0zI6Xbz-TV2m70cO-114">
