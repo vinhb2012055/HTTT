@@ -184,3 +184,108 @@ body {
     font-size: 12px;
     color: #0d6efd; /* Màu xanh khi input được focus */
 }
+
+
+
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 600px;
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.nav-pills .nav-link {
+    border-radius: 0;
+    color: #495057;
+    font-weight: bold;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.form-outline {
+    position: relative;
+}
+
+.form-outline input {
+    padding: 1rem;
+}
+
+.form-outline input:focus ~ .form-label {
+    transform: translateY(-1.25rem);
+    font-size: 0.75rem;
+    color: #007bff;
+}
+
+.form-outline label {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+    transition: all 0.3s ease;
+    pointer-events: none;
+    font-size: 0.8rem;
+}
+
+.btn-floating {
+    width: 3rem;
+    height: 3rem;
+    font-size: 1.5rem;
+    border-radius: 50%;
+    line-height: 3rem;
+    text-align: center;
+    transition: background-color 0.3s;
+    margin: 0 0.5rem; /* Add margin between buttons */
+}
+
+.btn-floating i {
+    line-height: inherit;
+}
+
+/* Facebook button */
+.btn-facebook {
+    background-color: #3b5998;
+    color: #fff;
+}
+
+/* Google button */
+.btn-google {
+    background-color: #db4437;
+    color: #fff;
+}
+
+/* Twitter button */
+.btn-twitter {
+    background-color: #1da1f2;
+    color: #fff;
+}
+
+/* Github button */
+.btn-github {
+    background-color: #24292e;
+    color: #fff;
+}
+
+/* Button hover effect */
+.btn-floating:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+/* Click effect */
+.clicked {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+/* Make Sign In and Register buttons larger */
+.btn-signin,
+.btn-register {
+    font-size: 1.25rem;
+    padding: 1rem 2rem;
+    margin-top: 1rem;
+}
